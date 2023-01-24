@@ -1,0 +1,22 @@
+* {
+    font-family: monospace;
+}
+#my {
+    color: azure;
+}
+#cloud {
+    color: cyan;
+}
+h1 {
+    background-color: black;
+}
+h2 {
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+}
+h3 {
+    text-align: right;
+    background-color: aquamarine;
+    text-decoration: underline;
+}
