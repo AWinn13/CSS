@@ -5,12 +5,9 @@
     border-radius: 25px;
     font-size: medium;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding: 30px;
+
     
-}
-#box1 {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    padding-left: 30px;
 }
 #plus {
     background-color: green;
@@ -18,12 +15,8 @@
     border-radius: 100%;
     font-size: small;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
-}
-#box2 {
-    padding-bottom: 30px;
-    padding-left: 30px;
-}
 #createaccount {
     color: white;
     background-color: lightseagreen;
@@ -31,8 +24,5 @@
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     box-shadow: 5px 5px 5px black;
-}
-#box3 {
-    padding-bottom: 30px;
-    padding-left: 30px;
+    padding: 30px;
 }
