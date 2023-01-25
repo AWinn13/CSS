@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.main {
+    height: 300px;
+    width: 600px;
+    margin-left: 400px;
+    margin-top: 100px;
+    border: 5px solid rgb(206, 206, 206);
+    box-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+.banner{
+    height: 100px;
+    width: 600px;
+    background-color: rgb(145, 48, 190);
+
+}
+
+.content {
+    margin-left: 20px;
+}
+
+.profpic {
+    height: 75px;
+    width: 75px;
+    margin-top: 70px;
+}
+
+.location {
+    width: 105px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-top: 5px;
+
+}
+.marker{
+    height: 20px;
+    width: 15px;
+}
+.text {
+    margin-top: 7px;
+    margin-bottom: 7px;
+
+}
+.gear {
+    height: 20px;
+    width: 20px;
+}
+.edit{
+    width: 105px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
