@@ -10,44 +10,57 @@
     height: 75px;
     width: 100%;
     background-color: rgb(58, 58, 58);
+
+}
+
+
+.nav-content {
+    color: aliceblue;
+    width: 1000px;
+    height: 75px;
     display: flex;
-    justify-content: space-around;
     align-items: center;
+    justify-content: space-between;
+    margin-left: 280px;
 
 }
 
 .nav-title {
     color: aliceblue;
-    display: flex;
-    align-items: center;
-    margin-left: 250px;
-
 }
+
 
 .nav-links {
     color: aliceblue;
     list-style-type: none;
     display: flex;
-    align-items: center;
-    margin-right: 250px;
-    gap: 25px;
+    gap: 50px;
+    margin-right: 120px;
+    
     
 }
 
+.linkcolor {
+    color: aliceblue;
+}
+
+a {
+    text-decoration: none;
+}
 
 .signout{
     background-color: mediumseagreen;
     font-size: 15px ;
     height: 35px;
     width: 70px;
-    margin-right: 350px;
+    margin-right: 165px;
     text-align:center;
 }
 
 .container {
     display: flex;
     margin-top: 50px;
-    gap: 70px;
+    gap: 60px;
 
 }
 
