@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Balsamiq Sans', cursive;
+
+}
+
+.nav {
+    height: 75px;
+    width: 100%;
+    background-color: rgb(58, 58, 58);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.nav-title {
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    margin-left: 250px;
+
+}
+
+.nav-links {
+    color: aliceblue;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin-right: 250px;
+    gap: 25px;
+    
+}
+
+
+.signout{
+    background-color: mediumseagreen;
+    font-size: 15px ;
+    height: 35px;
+    width: 70px;
+    margin-right: 350px;
+    text-align:center;
+}
+
+.container {
+    display: flex;
+    margin-top: 50px;
+    gap: 70px;
+
+}
+
+#primary {
+    width: 500px;
+    margin-left: 285px;
+
+}
+ul {
+    list-style-type: none;
+}
+
+.card {
+    height: 350px;
+    border: silver solid 3px;
+    
+
+}
+
+.card-banner{
+    background-color: mediumseagreen;
+    height: 100px;
+
+}
+
+
+.card-content {
+    margin-left: 40px;
+
+}
+
+.card-pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 30px;
+
+}
+
+
+.marker {
+    height: 25px;
+    width: 15px;
+    margin-bottom: 15px;
+    margin-right: 5px;
+
+
+}
+
+
+.gear {
+    height: 15px;
+    width: 15px;
+    margin-top: 15px;
+
+}
+
+#education {
+    height: 250px;
+    border:silver solid 3px ;
+    margin-top: 25px;
+
+
+
+}
+
+.gen-banner{
+    color: aliceblue;
+    background-color: rgb(58, 58, 58);
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: left
+
+
+}
+
+.edu-banner1 {
+    margin-left: 20px;
+
+}
+
+.edu-content {
+    margin: 15px;
+
+}
+
+.edu2 {
+    margin-top: 15px;
+}
+
+.date{
+    color: rgb(94, 94, 94);
+
+}
+
+#secondary {
+    width: 275px;
+    
+}
+
+.connectionrequests {
+    border: silver solid 3px;
+
+}
+
+
+.cr-banner {
+    display: flex;
+    height: 45px;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+
+.cr-avatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 5px;
+    margin-left: 10px;
+}
+
+
+.check {
+    height: 30px;
+    width: 30px;
+    margin-left: 15px;
+
+}
+.numbanner {
+
+    background-color: rgb(163, 163, 163);
+    border: 1px solid silver;
+    border-radius: 100%;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.yourconnections {
+    border: silver solid 3px;
+    margin-top: 65px;
+
+}
+
+
+
+.viewmore {
+    border-top: silver solid 3px;
+}
+
+.vmlink {
+    margin-left: 20px;
+}
+
+li{
+    display: flex;
+    align-items: center;
+}
+
